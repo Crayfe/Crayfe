@@ -4,7 +4,7 @@
 
 ### Aceca de mí
 - 🌐 En internet se me conoce más como @Crayfe
-- 🛰️ Soy estudiante de ingeniería en sistemas de telecomuniación (82.5%)
+- 🛰️ Soy estudiante de Ingeniería en Sistemas de Telecomunicación (82.5%)
 - 🇪🇸 De nacimiento y residencia en España
 - 📩 Para contactar conmigo: crayfe@gmail.com
 
