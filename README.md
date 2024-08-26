@@ -3,7 +3,7 @@
 </p>
 
 ### Aceca de mí
-- 🛰️ Soy estudiante de Ingeniería en Sistemas de Telecomunicación (82.5%).
+- 🛰️ Soy estudiante de Ingeniería en Sistemas de Telecomunicación (90.62%).
 - 🇪🇸 De nacimiento y residencia en España.
 - 🛠️ Entusiasta de la ciencia, de la tecnología y el cacharreo.
 - 📩 Para contactar conmigo: crayfe@gmail.com
