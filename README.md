@@ -27,10 +27,12 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### Actualmente aprendiendo
+### 42 Madrid
 <p> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href=""> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
+  <a href=""> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/get_next_linee.png?raw=true" /></a>
+  <a href=""> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/ft_printfe.png?raw=true" /></a>
+  <a href=""> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/born2beroote.png?raw=true" /></a>
 </p>
 
 ### Mis estadísticas en Github
