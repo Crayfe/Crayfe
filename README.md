@@ -32,8 +32,8 @@
 <p> 
   <a href="https://github.com/Crayfe/libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/get_next_line"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/get_next_linee.png?raw=true" /></a>
-  <a href="https://github.com/Crayfe/born2berrot"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/ft_printfe.png?raw=true" /></a>
-  <a href="https://github.com/Crayfe/printf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/born2beroote.png?raw=true" /></a>
+  <a href="https://github.com/Crayfe/printf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/ft_printfe.png?raw=true" /></a>
+  <a href="https://github.com/Crayfe/Born2BeRoot"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/born2beroote.png?raw=true" /></a>
 </p>
 
 ### Proyectos en proceso
