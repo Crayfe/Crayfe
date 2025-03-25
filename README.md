@@ -28,6 +28,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## Programando en 42 Madrid
+[![cayuso-f's 42 stats](https://badge.mediaplus.ma/darkblue/cayuso-f?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ### Proyectos superados
 <p> 
   <a href="https://github.com/Crayfe/libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
