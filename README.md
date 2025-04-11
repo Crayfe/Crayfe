@@ -38,11 +38,12 @@
   <a href="https://github.com/Crayfe/Born2BeRoot"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/born2beroote.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/push_swap"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/push_swape.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/pipex"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/pipexe.png?raw=true" /></a>
+  <a href="https://github.com/Crayfe/fdf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/fdfe.png?raw=true" /></a>
 </p>
 
 ### Proyectos en proceso
 <p> 
-  <a href="https://github.com/Crayfe/fdf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/fdfe.png?raw=true" /></a>
+  <a href="https://github.com/Crayfe/fdf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
 </p>
 
 ## Mis estadísticas en Github
