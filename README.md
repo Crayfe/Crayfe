@@ -27,7 +27,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## Programando en 42 Madrid
+## Programando en 42 Madrid (cayuso-f en la intra)
 [![cayuso-f's 42 stats](https://badge.mediaplus.ma/darkblue/cayuso-f?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### Proyectos superados
