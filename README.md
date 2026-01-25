@@ -3,7 +3,8 @@
 </p>
 
 ## Aceca de mí
-- 🛰️ Soy estudiante de Ingeniería en Sistemas de Telecomunicación (92.5%).
+- 🛰️ Estudiante de Ingeniería en Sistemas de Telecomunicación (92.5%).
+- 🛰️ Estudiante de Master en Comunicaciones inalámbricas (32.5%).
 - 🇪🇸 De nacimiento y residencia en España.
 - 🛠️ Entusiasta de la ciencia, de la tecnología y el cacharreo.
 - 📩 Para contactar conmigo: crayfe@gmail.com
@@ -27,10 +28,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## Programando en 42 Madrid (cayuso-f en la intra)
-[![cayuso-f's 42 stats](https://badge.mediaplus.ma/darkblue/cayuso-f?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-### Proyectos superados
+## 42 Madrid (2024-2025)
 <p> 
   <a href="https://github.com/Crayfe/libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/get_next_line"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/get_next_linee.png?raw=true" /></a>
@@ -39,12 +37,7 @@
   <a href="https://github.com/Crayfe/push_swap"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/push_swape.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/pipex"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/pipexe.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/fdf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/fdfe.png?raw=true" /></a>
-  <a href="https://github.com/Crayfe/fdf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
-</p>
-
-### Proyectos en proceso
-<p> 
-  <a href="https://github.com/Crayfe/fdf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/minishelle.png?raw=true" /></a>
+  <a href="https://github.com/Crayfe/philosophers"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
 </p>
 
 ## Mis estadísticas en Github
