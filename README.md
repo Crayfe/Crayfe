@@ -3,7 +3,7 @@
 </p>
 
 ## Aceca de mí
-- 🛰️ Estudiante de Ingeniería en Sistemas de Telecomunicación (92.5%).
+- 🛰️ Estudiante de Grado en Ingeniería en Sistemas de Telecomunicación (92.5%).
 - 🛰️ Estudiante de Master en Comunicaciones inalámbricas (32.5%).
 - 🇪🇸 De nacimiento y residencia en España.
 - 🛠️ Entusiasta de la ciencia, de la tecnología y el cacharreo.
