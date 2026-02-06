@@ -3,11 +3,11 @@
 </p>
 
 ## Aceca de mí
-- 🛰️ Estudiante de Grado en Ingeniería en Sistemas de Telecomunicación (92.5%).
+- 🧑‍💻 Técnico de investigación en la Universidad Politécnica de Madrid.
+- 🛰️ Grado en Ingeniería en Sistemas de Telecomunicación (92.5%).
 - 🛰️ Estudiante de Master en Comunicaciones inalámbricas (50%).
-- 🇪🇸 De nacimiento y residencia en España.
 - 🛠️ Entusiasta de la ciencia, de la tecnología y el cacharreo.
-- 📩 Para contactar conmigo: crayfe@gmail.com
+- 📩 Para contactar conmigo: c.ayuso@upm.com o crayfe@gmail.com
 
 
 ## Mis tecnologías
