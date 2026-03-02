@@ -4,7 +4,7 @@
 
 ## Aceca de mí
 - 🧑‍💻 Técnico de investigación en la Universidad Politécnica de Madrid.
-- 🛰️ Grado en Ingeniería en Sistemas de Telecomunicación (92.5%).
+- 🛰️ Grado en Ingeniería en Sistemas de Telecomunicación (95%).
 - 🛰️ Estudiante de Master en Comunicaciones inalámbricas (50%).
 - 🛠️ Entusiasta de la ciencia, de la tecnología y el cacharreo.
 - 📩 Para contactar conmigo: c.ayuso@upm.com o crayfe@gmail.com
