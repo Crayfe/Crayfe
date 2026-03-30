@@ -12,8 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-crayfe%40gmail.com-ea4335?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=white)](mailto:crayfe@gmail.com)
 </div>
 
----
-
 ## Aceca de mí
 - 🧑‍💻 Técnico de investigación en la Universidad Politécnica de Madrid.
 - 🛰️ Grado en Ingeniería en Sistemas de Telecomunicación (95%).
