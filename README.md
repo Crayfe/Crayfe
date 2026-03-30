@@ -1,6 +1,18 @@
-<p align="center" width="300">
-  <h3 align="center">¡Saludos! Soy Cristian Ayuso 👋 </h3>  
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=crayfe&style=for-the-badge" />
 </p>
+<div align="center">
+  
+# Cristian Ayuso Ferrón - Crayfe
+
+**` Ingeniero · Maker · Java/C/C++/Python · Linux · Sistemas embebidos `**
+
+[![YouTube](https://img.shields.io/badge/YouTube-CrayfeProjects-FF0000?style=flat-square&labelColor=0d1117&logo=YouTube&logoColor=white)](http://www.youtube.com/@CrayfeProjects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Ayuso%20Ferrón-0a66c2?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-ayuso-ferron/)
+[![Email](https://img.shields.io/badge/Email-crayfe%40gmail.com-ea4335?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=white)](mailto:crayfe@gmail.com)
+</div>
+
+---
 
 ## Aceca de mí
 - 🧑‍💻 Técnico de investigación en la Universidad Politécnica de Madrid.
