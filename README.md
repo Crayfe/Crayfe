@@ -12,13 +12,19 @@
 [![Email](https://img.shields.io/badge/Email-crayfe%40gmail.com-ea4335?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=white)](mailto:crayfe@gmail.com)
 </div>
 
-## Aceca de mí
-- 🧑‍💻 Técnico de investigación en la Universidad Politécnica de Madrid.
-- 🛰️ Grado en Ingeniería en Sistemas de Telecomunicación (95%).
-- 🛰️ Estudiante de Master en Comunicaciones inalámbricas (50%).
-- 🛠️ Entusiasta de la ciencia, de la tecnología y el cacharreo.
-- 📩 Para contactar conmigo: c.ayuso@upm.com o crayfe@gmail.com
+## Sobre mí
 
+¡Hola! Soy **Cristian**, ingeniero de Sistemas de Telecomunicación y un apasionado de la ciencia y tecnología.
+
+Actualmente, combino mi labor como **Técnico de Investigación en la Universidad Politécnica de Madrid (UPM)** con mi formación en el Master universitario en **Wireless Communications**, enfocándome en la generación y deteccion de señales con **Software Defined Radios (SDR)**. Además estudio, modelo y entreno modelos de **inteligencia artificial (AI)** para detectar, clasificar y generar señales **RF**
+
+Mi trayectoria está marcada por la curiosidad, el cacharreo" constante y los sistemas de **Telecomunicación**. Tengo experiencia programando en **Java, C/C++ y Python** principalmente, con un enfoque especial en **sistemas embebidos** y entornos Linux. 
+
+Mi paso por **42 Madrid** fue una experiencia enriquecedora, ya que reforzó mi capacidad de resolución de problemas, a salir de mi zona de confort, enseñar y aprender de mis compañeros.
+
+Más allá de todo, soy un **Maker** de corazón. Disfruto del cacharreo, entendiendo cómo funcionan las cosas de arriba a abajo y luego creo mis prototipos, documentando mis procesos para compartir conocimiento con todo el mundo. Creo firmemente que la mejor forma de aprender es construyendo, experimentando y optimizando cada solución.
+
+📫 **¿Hablamos?** Puedes localizarme en [c.ayuso@upm.es](mailto:c.ayuso@upm.es) o en [crayfe@gmail.com](mailto:crayfe@gmail.com).
 
 ## Mis tecnologías
 <p> 
@@ -42,7 +48,7 @@
 - <a href="https://github.com/Crayfe/MCU-Programming-Collection">MCU-Programming-Collection</a>
 - <a href="https://github.com/Crayfe/all-your-links">all-your-links</a>
 - <a href="https://github.com/Crayfe/BLE-HID-Controller-ESP32">BLE-HID-Controller-ESP32</a>
-- <a href="https://github.com/Crayfe/TaskManagerESP32">TaskManagerESP32</a>
+- <a href="https://github.com/Crayfe/Task-Scheduler-ESP32">Task Scheduler ESP32</a>
 ## 42 Madrid (2024-2025)
 <p> 
   <a href="https://github.com/Crayfe/libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
