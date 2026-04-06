@@ -44,22 +44,31 @@ Más allá de todo, soy un **Maker** de corazón. Disfruto del cacharreo, entend
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-## UPM y Proyectos personales (2025-Actual)
-- <a href="https://github.com/Crayfe/MCU-Programming-Collection">MCU-Programming-Collection</a>
-- <a href="https://github.com/Crayfe/all-your-links">all-your-links</a>
-- <a href="https://github.com/Crayfe/BLE-HID-Controller-ESP32">BLE-HID-Controller-ESP32</a>
+
+## Proyectos
+### (2025 - Actual)
+- <a href="https://github.com/Crayfe/MCU-Programming-Collection">MCU Programming Collection</a>
+- <a href="https://github.com/Crayfe/all-your-links">All your links</a>
+- <a href="https://github.com/Crayfe/BLE-HID-Controller-ESP32">BLE HIDController ESP32</a>
 - <a href="https://github.com/Crayfe/Task-Scheduler-ESP32">Task Scheduler ESP32</a>
-## 42 Madrid (2024-2025)
+
+### (2024 - 2025) - 42 Madrid
 <p> 
   <a href="https://github.com/Crayfe/libft"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/libfte.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/get_next_line"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/get_next_linee.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/printf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/ft_printfe.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/Born2beroot-Tutorial"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/born2beroote.png?raw=true" /></a>
+</p> 
+<p> 
   <a href="https://github.com/Crayfe/push_swap"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/push_swape.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/pipex"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/pipexe.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/fdf"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/fdfe.png?raw=true" /></a>
   <a href="https://github.com/Crayfe/philosophers"> <img src="https://github.com/0bvim/42-project-badges/blob/main/badges/philosopherse.png?raw=true" /></a>
 </p>
+
+### (Anterior a 2024)
+- <a href="https://github.com/Crayfe/Conmutador-de-entradas-de-sonido_esp32">Conmutador de entradas de sonido con ESP32</a>
+- <a href="https://github.com/Crayfe/Sistema-de-riego-remoto-esp32">Sistema de riego remoto con ESP32</a>
 
 ## Mis estadísticas en Github
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crayfe&show_icons=true&theme=dark&locale=en&layout=compact" alt="crayfe" /></p>
