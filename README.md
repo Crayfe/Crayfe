@@ -49,7 +49,7 @@ Más allá de todo, soy un **Maker** de corazón. Disfruto del cacharreo, entend
 ### (2025 - Actual)
 - <a href="https://github.com/Crayfe/MCU-Programming-Collection">MCU Programming Collection</a>
 - <a href="https://github.com/Crayfe/all-your-links">All your links</a>
-- <a href="https://github.com/Crayfe/BLE-HID-Controller-ESP32">BLE HIDController ESP32</a>
+- <a href="https://github.com/Crayfe/BLE-HID-Controller-ESP32">BLE HID Controller ESP32</a>
 - <a href="https://github.com/Crayfe/Task-Scheduler-ESP32">Task Scheduler ESP32</a>
 
 ### (2024 - 2025) - 42 Madrid
@@ -67,8 +67,10 @@ Más allá de todo, soy un **Maker** de corazón. Disfruto del cacharreo, entend
 </p>
 
 ### (Anterior a 2024)
+- <a href="https://github.com/Crayfe/No-more-Twitter">No more Twitter</a>
 - <a href="https://github.com/Crayfe/Conmutador-de-entradas-de-sonido_esp32">Conmutador de entradas de sonido con ESP32</a>
 - <a href="https://github.com/Crayfe/Sistema-de-riego-remoto-esp32">Sistema de riego remoto con ESP32</a>
+- <a href="https://github.com/Crayfe/AirlineManager">AirlineManager</a>
 
 ## Mis estadísticas en Github
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crayfe&show_icons=true&theme=dark&locale=en&layout=compact" alt="crayfe" /></p>
