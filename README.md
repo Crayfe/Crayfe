@@ -62,7 +62,11 @@ Más allá de todo, soy un **Maker** de corazón. Disfruto del cacharreo, entend
 - <a href="https://github.com/Crayfe/AirlineManager">AirlineManager</a>
 
 ## Mis estadísticas en Github
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crayfe&show_icons=true&theme=dark&locale=en&layout=compact" alt="crayfe" /></p>
+<p>
+  <a href="https://github.com/Crayfe">
+    <img height="180em"src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=Crayfe&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
+  </a>
+</p>
 
 <!---
 Crayfe/Crayfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
