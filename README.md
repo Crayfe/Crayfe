@@ -63,6 +63,7 @@ Más allá de todo, soy un **Maker** de corazón. Disfruto del cacharreo, entend
 
 ## Mis estadísticas en Github
 <p>
+  <img height="180em"alt="Onimur's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=Crayfe&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
   <a href="https://github.com/Crayfe">
     <img height="180em"src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=Crayfe&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
   </a>
